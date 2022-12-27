@@ -1,4 +1,7 @@
-<div style="display: inline_block"><br>
+
+<div style="display: inline_block">
+  
+  ## Tecnologias usadas<br>
   <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   &nbsp;
  <img align="center" alt="jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
