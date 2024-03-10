@@ -15,6 +15,9 @@
     <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
   &nbsp;
   <img align="center" alt="mysql" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+    &nbsp; 
+      <img align="center" alt="mysql" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+
     
   </div>
   <br>
