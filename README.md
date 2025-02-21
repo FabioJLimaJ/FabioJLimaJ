@@ -15,8 +15,7 @@
     <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
   &nbsp;
   <img align="center" alt="mysql" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-    &nbsp; 
-      <img align="center" alt="mysql" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  
 
     
   </div>
@@ -24,6 +23,5 @@
   
   ## Redes Sociais
   [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@botzinhumilde)
-  &nbsp;
-   [![Twitter]( 	https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/BotStateW)
+  
   
