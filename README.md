@@ -1,7 +1,7 @@
 
 <div style="display: inline_block">
   
-  ## Tecnologias usadas<br>
+  ## Sei isso daqui só<br>
   <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   &nbsp;
  <img align="center" alt="jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
@@ -19,9 +19,6 @@
 
     
   </div>
-  <br>
-  
-  ## Redes Sociais
-  [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@botzinhumilde)
+
   
   
