@@ -16,6 +16,8 @@
   &nbsp;
  <img align="center" alt="reactNative" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
     &nbsp;
+    <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+    &nbsp;
   </div>
 
   
