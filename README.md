@@ -19,6 +19,14 @@
     <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
     &nbsp;
   </div>
+  <br>
+  <div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FabioJLimaJ&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=apprentice&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+  <img src="https://raw.githubusercontent.com/FabioJLimaJ/FabioJLimaJ/output/snake.svg" alt="Snake animation" />
+
+
 
   
   
