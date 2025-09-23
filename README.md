@@ -18,9 +18,10 @@
     &nbsp;
     <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
     &nbsp;
+    <br><br>
  <img align="center" alt="Cobol" src="https://img.shields.io/badge/COBOL-00427E?style=for-the-badge&logo=https://www.svgrepo.com/show/339080/cobol-language.svg&logoColor=white"/>
 &nbsp;
-<br><br>
+
  <img align="center" alt="Cobol" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
  &nbsp;
 <img align="center" alt="Cobol" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
