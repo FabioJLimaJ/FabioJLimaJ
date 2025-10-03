@@ -1,9 +1,14 @@
 
 <div style="display: inline_block;">
-  
+ 
+
+###
   
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=2000&color=57251D&background=FFFFFF00&vCenter=true&width=435&lines=Ol%C3%A1+tudo+bem%3F;What's+up%3F;Bonjour%2C+%C3%A7a+va%3F)](https://git.io/typing-svg)
   ## Sei isso daqui só<br>
+   <div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
   <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   &nbsp;
  <img align="center" alt="jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
