@@ -6,7 +6,7 @@
  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=2000&color=FFFFFF&background=FFFFFF00&vCenter=true&width=435&lines=Ol%C3%A1+tudo+bem%3F;What's+up%3F;Bonjour%2C+%C3%A7a+va%3F)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=2000&color=FFFFFF&background=FFFFFF00&vCenter=true&width=435&lines=Tecnologias+utilizadas;Technologies+used;+Tecnologias+utilizadas+Technologies+utilis%C3%A9es)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=2000&color=FFFFFF&background=FFFFFF00&vCenter=true&width=435&lines=Tecnologias+utilizadas;Technologies+used;Technologies+utilis%C3%A9es)](https://git.io/typing-svg)
 
   <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   &nbsp;
