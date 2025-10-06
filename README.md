@@ -28,11 +28,11 @@
  <img align="center" alt="Cobol" src="https://img.shields.io/badge/COBOL-00427E?style=for-the-badge&logo=https://www.svgrepo.com/show/339080/cobol-language.svg&logoColor=white"/>
 &nbsp;
 
- <img align="center" alt="Cobol" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+ <img align="center" alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
  &nbsp;
-<img align="center" alt="Cobol" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+<img align="center" alt="laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
 &nbsp;
- 	<img align="center" alt="Cobol" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+ 	<img align="center" alt="mongo" src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white"/>
   </div>
   <br>
   <div align="left">
