@@ -36,7 +36,7 @@
   </div>
   <br>
   <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FabioJLimaJ&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FabioJLimaJ&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
     &nbsp;
 <img src="https://images.steamusercontent.com/ugc/2035116698734872173/63C5043C6E43FDCD88DE4DA043E04548B3AF675E/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false?odnHeight=117&odnWidth=117&odnBg=FFFFFF" height="150">
 
