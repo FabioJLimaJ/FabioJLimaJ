@@ -8,6 +8,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=2000&color=FFFFFF&background=FFFFFF00&vCenter=true&width=435&lines=Tecnologias+utilizadas;Technologies+used;Technologies+utilis%C3%A9es)](https://git.io/typing-svg)
 
+<div align="center">
   <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   &nbsp;
  <img align="center" alt="jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
@@ -20,11 +21,10 @@
   &nbsp;
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
   &nbsp;
- <img align="center" alt="reactNative" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+ <img align="center" alt="reactNative" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
     &nbsp;
     <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
     &nbsp;
-    <br><br>
  <img align="center" alt="Cobol" src="https://img.shields.io/badge/COBOL-00427E?style=for-the-badge&logo=https://www.svgrepo.com/show/339080/cobol-language.svg&logoColor=white"/>
 &nbsp;
 
@@ -33,6 +33,7 @@
 <img align="center" alt="laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
 &nbsp;
  	<img align="center" alt="mongo" src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white"/>
+   </div>
   </div>
   <br>
   <div align="left">
