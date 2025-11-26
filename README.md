@@ -1,9 +1,3 @@
-
-<div>
-   <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=2000&color=FFFFFF&background=FFFFFF00&vCenter=true&width=435&lines=Ol%C3%A1+tudo+bem%3F;What's+up%3F;Bonjour%2C+%C3%A7a+va%3F)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=2000&color=FFFFFF&background=FFFFFF00&vCenter=true&width=435&lines=Tecnologias+utilizadas;Technologies+used;Technologies+utilis%C3%A9es)](https://git.io/typing-svg)
@@ -36,12 +30,6 @@
     &nbsp;
 <img src="https://images.steamusercontent.com/ugc/2035116698734872173/63C5043C6E43FDCD88DE4DA043E04548B3AF675E/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false?odnHeight=117&odnWidth=117&odnBg=FFFFFF" height="150">
 
-</div>
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
-###
 <img src="https://raw.githubusercontent.com/FabioJLimaJ/FabioJLimaJ/output/snake.svg" alt="Snake animation" />
 
 ###
